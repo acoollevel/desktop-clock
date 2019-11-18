@@ -1,0 +1,1 @@
+start pythonw clock.py
